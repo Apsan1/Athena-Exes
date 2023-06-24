@@ -77,6 +77,6 @@ Before you can install Athena, make sure you have the following:
 For more details and visual instructions, you can refer to the following resources:
 
 - [Athena Installation Video](https://www.youtube-nocookie.com/embed/5G3L3Q-iTCo)
-- [Athena WebPage](athena.42web.io/index.html)
+- [Athena WebPage](http://athena.42web.io/index.html)
 
 Thank you for choosing Athena! If you have any further questions or need assistance, please refer to the main page of Athena.
