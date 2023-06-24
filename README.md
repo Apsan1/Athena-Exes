@@ -16,8 +16,9 @@ This guide provides step-by-step instructions to install Athena on your system.
 
 Before you can install Athena, make sure you have the following:
 
-## ⚠️⚠️⚠️ Please, Do not Forget to add your passwords and mails in the file for it to make it work. ⚠️⚠️⚠️
-It is only in your pc and does not get uploaded anywhere else.
+- Python , which you can download from:(https://www.python.org/downloads/)
+- Windows OS
+- pip should be configured properly
 
 # Installation Steps
 
