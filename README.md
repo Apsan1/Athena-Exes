@@ -4,7 +4,7 @@
 
 # Instructions:
 
-## ⚠️⚠️⚠️ Please, Do not Forget to add your passwords and mails in the file for it to make it work. ⚠️⚠️⚠️
+## ⚠️⚠️⚠️ Please, Do not Forget to add the required information in the file for it to make it work. ⚠️⚠️⚠️
 It is only in your pc and does not get uploaded anywhere else.
 
 # Python Script Dependencies
