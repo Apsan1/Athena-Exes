@@ -10,7 +10,7 @@ Athena is a python based application designed to provide various functionalities
 
 This guide provides step-by-step instructions to install Athena on your system.
 ## You can visit the installation website if you want convenience and visual as well as documented installation.
-### "Link will be available soon"
+ - [Installation Page](http://athena.42web.io/installation.html)
 
 # Prerequisites
 
@@ -77,6 +77,6 @@ Before you can install Athena, make sure you have the following:
 For more details and visual instructions, you can refer to the following resources:
 
 - [Athena Installation Video](https://www.youtube-nocookie.com/embed/5G3L3Q-iTCo)
-- [Athena WebPage]("link will be available soon")
+- [Athena WebPage](athena.42web.io/index.html)
 
 Thank you for choosing Athena! If you have any further questions or need assistance, please refer to the main page of Athena.
