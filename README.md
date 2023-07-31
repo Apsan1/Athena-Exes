@@ -12,6 +12,10 @@ This guide provides step-by-step instructions to install Athena on your system.
 ## You can visit the installation website if you want convenience and visual as well as documented installation.
  - [Installation Page](http://athena.42web.io/installation.html)
 
+## You can also see this video to install the Athena
+- [<img src="https://ibb.co/kHpp0X9" width="600" height="300"
+/>](https://www.youtube-nocookie.com/embed/5G3L3Q-iTCo)
+
 # Prerequisites
 
 Before you can install Athena, make sure you have the following:
